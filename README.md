@@ -12,4 +12,4 @@
 
 
 ## Ref.
-- gitignore
+.gitignore
