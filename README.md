@@ -15,11 +15,11 @@
 - [x] 헤더
 - [x] 메인
 - [ ] 섹션
-  - [ ] About Me
+  - [ ] About Me (2개를 균등 분할, float)
+  - [ ] Contact With Me
   - [ ] What I Do
   - [ ] Background
   - [ ] PortFolio
-  - [ ] Contact With Me
 
 
 ## Ref.
